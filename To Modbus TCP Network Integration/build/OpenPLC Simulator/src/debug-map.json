@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "md5": "8d8e5395a449c498b7c48f91574ec394",
+  "typeTags": {
+    "BOOL": 0,
+    "SINT": 1,
+    "USINT": 2,
+    "INT": 3,
+    "UINT": 4,
+    "DINT": 5,
+    "UDINT": 6,
+    "LINT": 7,
+    "ULINT": 8,
+    "REAL": 9,
+    "LREAL": 10,
+    "BYTE": 11,
+    "WORD": 12,
+    "DWORD": 13,
+    "LWORD": 14,
+    "TIME": 15,
+    "DATE": 16,
+    "TOD": 17,
+    "DT": 18,
+    "STRING": 19,
+    "WSTRING": 20
+  },
+  "arrays": [
+    {
+      "index": 0,
+      "count": 7
+    }
+  ],
+  "leaves": [
+    {
+      "arrayIdx": 0,
+      "elemIdx": 0,
+      "path": "INSTANCE0.RAW_INPUT",
+      "type": "REAL",
+      "size": 4
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 1,
+      "path": "INSTANCE0.SCALED_OUTPUT",
+      "type": "REAL",
+      "size": 4
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 2,
+      "path": "INSTANCE0.HIGH_LEVEL_ALARM",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 3,
+      "path": "INSTANCE0._TMP_SCALE7227836_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 4,
+      "path": "INSTANCE0._TMP_SCALE7227836_OUT",
+      "type": "REAL",
+      "size": 4
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 5,
+      "path": "INSTANCE0._TMP_GT5970359_ENO",
+      "type": "BOOL",
+      "size": 1
+    },
+    {
+      "arrayIdx": 0,
+      "elemIdx": 6,
+      "path": "INSTANCE0._TMP_GT5970359_OUT",
+      "type": "BOOL",
+      "size": 1
+    }
+  ]
+}
